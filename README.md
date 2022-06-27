@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3dec7754-f9cb-4f03-bfde-6f5a9ba45649/deploy-status)](https://app.netlify.com/sites/mahmudur-resume/deploys)
+## [Watch Live](https://mahmudur-resume.netlify.app)
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
